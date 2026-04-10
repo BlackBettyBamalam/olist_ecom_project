@@ -126,6 +126,11 @@ This suggests that a relatively small portion of the product catalog drives a ma
 
 Understanding which products generate the majority of revenue can help guide inventory prioritization, marketing efforts, and future product offerings.
 
+## Business Recommendations
+- Focus marketing on top 20% customers
+- Expand high-performing categories
+- Improve retention strategies
+
 ## SQL Techniques Demonstrated
 
 This project demonstrates several analytical SQL techniques:
